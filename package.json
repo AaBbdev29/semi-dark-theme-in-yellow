@@ -1,0 +1,32 @@
+{
+  "name": "Semi-dark-theme-in-yellow",
+  "publisher": "moondevaa",
+  "displayName": "Semi dark theme in yellow",
+  "description": "semi dark theme with attarctive colores moon like",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "icon": "moon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Semi dark theme in yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/semi-dark-theme-no-dark-no-light-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
