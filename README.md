@@ -24,5 +24,13 @@ fixed most bugs ..
   </div>
 
 # Screenshots
-
-
+ <div style="text-align: center; align-items: center;">
+        <h3>Javascript</h3>
+        <img src="https://raw.githubusercontent.com/AaBbdev29/semi-dark-theme-in-yellow/main/screenshoot/js.png" alt="Javascript">
+        <hr>
+        <h3> Css</h3>
+        <img src="https://raw.githubusercontent.com/AaBbdev29/semi-dark-theme-in-yellow/main/screenshoot/css.png" alt="css">
+        <hr>
+        <h3>Python</h3>
+        <img src="https://raw.githubusercontent.com/AaBbdev29/semi-dark-theme-in-yellow/main/screenshoot/py.png" alt="python">
+    </div>
