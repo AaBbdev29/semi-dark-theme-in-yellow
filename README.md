@@ -2,7 +2,7 @@
 
 # semi dark theme in yellow
 
-A dark theme with attratice colores for Visual Studio Code.
+A semi dark theme with attratice colores for Visual Studio Code.
 </div>
 
 # Installation
