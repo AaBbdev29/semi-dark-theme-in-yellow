@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Semi dark theme in yellow",
   "description": "semi dark theme with attarctive colores(yellow, pink, peach,green,blue)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.78.0"
   },
