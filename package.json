@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Semi dark theme in yellow",
   "description": "semi dark theme with attarctive colores(yellow, pink, peach,green,blue)",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -25,7 +25,7 @@
     "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
     "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","yes","no","shades","shadow","orange",
     "Sunshine","Canary","Saffron","Citrine","safety","Sunflower","Bumblebee","butter","Banana","honey","dijon","Mellow","Minion",
-    "Empire","zinc","tender"
+    "Empire","zinc","tender","train","w3school","screen","big","park","shop","subway","road"
 ],
   "icon": "moon.jpg", 
   "theme": "dark",
